@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-It's a markdoen file in this _repository_.
+It's a markdoen file in this @repository@.
